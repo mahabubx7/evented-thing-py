@@ -1,4 +1,4 @@
-# Evented Thing | Pyhton
+# Evented Thing | Python
 
 ### Source Code | Solution
 
